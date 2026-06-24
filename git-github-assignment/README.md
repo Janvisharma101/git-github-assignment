@@ -1,0 +1,19 @@
+# Git & GitHub assignment.
+This is my first Git and GitHub assignment.
+
+## About Me
+My name is Janvi.
+I am learning how to track code using Git and push code to GitHub.
+
+## Commands I Practiced
+- git init
+- git status
+- git add
+- git commit -m "message"
+- git log --oneline
+- git branch -M main
+- git push -u origin main
+- git push 
+
+## Important Line
+Commit is local. Push in online.
